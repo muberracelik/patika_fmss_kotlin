@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button_style">
+        <item name="android:layout_marginStart">100dp</item>
+        <item name="android:layout_marginTop">660dp</item>
+        <item name="android:layout_marginEnd">100dp</item>
+        <item name="android:backgroundTint">#F9AD1A</item>
+    </style>
+</resources>

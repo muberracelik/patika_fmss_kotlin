@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppLifecycle</string>
+    <string name="name_hint">Enter Your Name</string>
+</resources>
