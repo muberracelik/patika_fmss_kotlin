@@ -10,7 +10,7 @@
 - [Lazy Filters – asSequence() Kullanımı](https://github.com/muberracelik/patika_fmss_kotlin/tree/main/Week2HomeWork2#readme)
 
 ## Hafta 3
-- [Nested Navigation App](https://github.com/muberracelik/patika_fmss_kotlin/tree/main/Week3AppNavigation
+- [Nested Navigation App](https://github.com/muberracelik/patika_fmss_kotlin/tree/main/Week3AppNavigation)
 - [Lifecycle App](https://github.com/muberracelik/patika_fmss_kotlin/tree/main/Week3Lifecycle)
 
 ## Hafta 4
